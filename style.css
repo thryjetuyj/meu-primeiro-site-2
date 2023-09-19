@@ -4,7 +4,5 @@ body {
 
 h1 {
     color: rgb(red, green, rgb(55, 161, 41));
-    font-size: 50px;
-    text-aling: center;
     text-transform: uppercase;
 }
